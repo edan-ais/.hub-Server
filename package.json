@@ -1,0 +1,12 @@
+{
+  "name": "hub-semantic-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "semantic.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "openai": "^4.47.3"
+  }
+}
